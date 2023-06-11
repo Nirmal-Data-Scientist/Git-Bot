@@ -1,6 +1,6 @@
 # Gitbot
 
-GitBot is a PowerShell script designed to automate common Git operations and simplify your Git workflows in Windows OS. You can click here ➡️ [Medium Article](https://medium.com/@djpjgj/make-your-github-stats-great-again-a830cb6e3428) to know further about the usecase.
+GitBot is a PowerShell script designed to automate common Git operations and simplify your Git workflows in Windows OS.
 
 ## User Guide
 
